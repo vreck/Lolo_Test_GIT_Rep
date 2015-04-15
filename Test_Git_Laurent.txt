@@ -1,4 +1,4 @@
-taratata
+﻿taratata -- plus de texte sur la même ligne
 turlututu
 encore du texte
 encore et encore
