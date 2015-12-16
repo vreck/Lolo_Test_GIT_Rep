@@ -7,3 +7,7 @@ ajouté depuis l'interface Web de GitHub
 et une autre ligne à 17:51
 
 une nouvelle 17:53
+
+Mercredi 16/12/2015 après creation de branche...
+2ème commit dans la branche
+3ème commit dans la branche
